@@ -1,6 +1,6 @@
 # CT-S851-Print-Manager
 
-This is a C# manager class for ESC/POS commands for **Citizen CT-S851** printer. 
+This is a C# manager class for printing with **Citizen CT-S851** via ESC/POS commands over a network.
 
 Since this project was created as a part of commercial application for Russian customer, only Russian PC866 codepage is supported at the moment. Other codepages support could be added in future updates.
 
