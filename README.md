@@ -8,6 +8,8 @@ Since this project was created as a part of commercial application for Russian c
 
 Just add this class to your C# project, add `using PrintManager;` derective where it is needed.
 
+Then create object with `CT_S851_Manager` class.
+
 Sample code can be just like that:
 
 	private void button1_Click(object sender, EventArgs e)
